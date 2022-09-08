@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @nthgphuc
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Web projects
+<!--<b> Hi there, I'm Lily </b>
 
+<p> I'm learning to become a Software Engineer. I'm interested in C, Java and want to learning more about programming languages. Some languages I'm learning currently: </p>
+<ul style="list-style-type:none;">
+<li><a  > mixed reality </li>
+<li>🥽 mixed reality </li>
+<li>🥽 mixed reality </li>
+<li>🥽 mixed reality </li>
+</ul>
 
-<!- 📫 ...
-nthgphuc/nthgphuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b> Places to find me </b>
+🖥️ Personal website
+💼 Connect on LinkedIn
+🔬 Research work on Google Scholar
+🥞 Community help on Stack Overflow -->
